@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8585a593-df23-4bc6-abf5-cb1bee2729c8" name="Default Changelist" comment="" />
+    <list default="true" id="8585a593-df23-4bc6-abf5-cb1bee2729c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/CatchWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/CatchWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/FallingWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/FallingWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/Score.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/ScoreUpdater.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/ScoreUpdater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/TypingTutorApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/TypingTutorApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/WordDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/WordDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/bin/typingTutor/WordMover.class" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/bin/typingTutor/WordMover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/CatchWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/CatchWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/FallingWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/FallingWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/ScoreUpdater.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/ScoreUpdater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/TypingTutorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/TypingTutorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/WordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/WordDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typingTutor/src/typingTutor/WordMover.java" beforeDir="false" afterPath="$PROJECT_DIR$/typingTutor/src/typingTutor/WordMover.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +29,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Do77nW81KHAH1YKG28QxM4z3Wq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -26,5 +50,19 @@
       <updated>1661353418246</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1661354403398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1661354403398" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1661354263840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1661354263840" />
+    <state x="209" y="33" key="new project wizard" timestamp="1661354419152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1661354419152" />
   </component>
 </project>
