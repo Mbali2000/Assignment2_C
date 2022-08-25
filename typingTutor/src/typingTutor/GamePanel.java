@@ -3,7 +3,7 @@ package typingTutor;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Font;
-import java.util.concurrent.CountDownLatch;
+//import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import javax.swing.JPanel;

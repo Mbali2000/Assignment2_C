@@ -7,7 +7,9 @@ import java.util.concurrent.atomic.AtomicBoolean;
 //Thread to monitor the word that has been typed.
 public class CatchWord extends Thread {
 	String target;
-	FallingWord duplicate; //variable to hold duplicate word
+	//FallingWord [] duplicate; //array to hold duplicate words
+	FallingWord g;
+	FallingWord tempWord = null;
 	static AtomicBoolean done ; //REMOVE
 	static AtomicBoolean pause; //REMOVE
 	
@@ -38,27 +40,32 @@ public class CatchWord extends Thread {
 		while (i<noWords) {		
 			while(pause.get()) {};
 			//check for duplicate before executing matchWord method
-			if(target == words[i].getWord()){
-				duplicate = words[i];
-				//checks for lowest y coordinate value
-				if(words[i].getY() > words[i+1].getY()){
-					duplicate = words[i+1];
-				}else{
-					duplicate = words[i];
-				}
-				
-			}
-			
 
-			if (duplicate.matchWord(target)) {
-				System.out.println( " score! '" + target); //for checking
-				score.caughtWord(target.length());	
-				//FallingWord.increaseSpeed();
-				break;
+			if(words[i].getWord().equals(target)){
+				tempWord = words[i];
+
+				if(tempWord != null && tempWord.getY() < words[i].getY()){
+					tempWord = words[i];
+
+				}
+			}else{
+				tempWord = words[i];
 			}
-			i++; //checks all possible duplicates
-		   
+			 g = words[i];
+			
+			
+			i++;
 		}
+		 if(tempWord != null){ g = tempWord;}
+		if(g.matchWord(target)){
+			//tempWord.resetWord();
+		System.out.println( " score! '" + target); //for checking
+		score.caughtWord(target.length());	
+		//FallingWord.increaseSpeed();
+		//break;	
 		
+		}
 	}	
+		
+		
 }
