@@ -102,6 +102,10 @@ public class FallingWord {
 		else
 			return false;
 	}
+	//drop x function
+	public synchronized void dropx(int inc){
+		setX(x+inc);	
+	}
 
 	public synchronized  void drop(int inc) {
 		setY(y+inc);

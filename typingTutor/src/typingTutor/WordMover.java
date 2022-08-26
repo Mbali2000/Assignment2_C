@@ -30,7 +30,7 @@ public class WordMover extends Thread {
 		//System.out.println(myWord.getWord() + " falling speed = " + myWord.getSpeed());
 		try {
 			System.out.println(myWord.getWord() + " waiting to start " );
-			startLatch.await();
+			startLatch.await(); //mightnot need
 		} catch (InterruptedException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();

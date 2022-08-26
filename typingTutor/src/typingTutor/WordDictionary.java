@@ -2,10 +2,11 @@ package typingTutor;
 
 public class WordDictionary {
 	int size;
-	static String [] theDict= {"litchi","banana","apple","mango","pear","orange","strawberry",
+	/*static String [] theDict= {"litchi","banana","apple","mango","pear","orange","strawberry",
 		"cherry","lemon","apricot","peach","guava","grape","kiwi","quince","plum","prune",
 		"cranberry","blueberry","rhubarb","fruit","grapefruit","kumquat","tomato","berry",
-		"boysenberry","loquat","avocado"}; //default dictionary
+		"boysenberry","loquat","avocado"}; //default dictionary*/
+		static String [] theDict= {"litchi","banana","apple","mango"};
 	
 	WordDictionary(String [] tmp) {
 		size = tmp.length;
