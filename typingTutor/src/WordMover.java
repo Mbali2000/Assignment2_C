@@ -1,4 +1,4 @@
-package typingTutor;
+// package typingTutor;
 
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicBoolean;
@@ -39,7 +39,7 @@ public class WordMover extends Thread {
 		while (!done.get()) {				
 			//animate the word
 			while (!myWord.dropped() && !done.get()) {
-				    myWord.drop(4);
+				    myWord.drop(10);
 					try {
 						sleep(myWord.getSpeed());
 					} catch (InterruptedException e) {
