@@ -1,4 +1,4 @@
-package typingTutor;
+//package typingTutor;
 
 public class FallingWord {
 	private String word; // the word
