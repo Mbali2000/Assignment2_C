@@ -1,0 +1,134 @@
+commit 9e689182e46978a241656de5af4df5cd9e05f873 (HEAD -> main, origin/main, origin/HEAD)
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 19:07:57 2022 +0200
+
+    updates
+
+commit ddd071dd76a54dcf1300a6e3037ae94564203196
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 18:32:20 2022 +0200
+
+    updates
+
+commit 88d4fa5d09c02674a0f2703bb713d82fe741598c
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 18:27:39 2022 +0200
+
+    Updates
+    
+    Created makefile and created hungryWord
+
+commit 932d985d3e9d128a72d9f323542a1ddf4bfe4edc
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 09:42:48 2022 +0200
+
+    update
+
+commit 24806dd8f8d4d418353577585b8fab20010b1398
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Fri Aug 26 22:44:43 2022 +0200
+
+    update
+
+commit 55c15fac6e3759b5fe70bb553a565af80be4b3e9
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Fri Aug 26 10:05:14 2022 +0200
+
+    updates
+
+commit 76d399d4ca4458703971c1d5e2cb8d8717cb20aa
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Thu Aug 25 22:07:34 2022 +0200
+
+    changes
+
+commit 722ace1481ff8c8ba4895a3cfbb84031a9a8e497
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Thu Aug 25 01:15:57 2022 +0200
+
+    duplicate attempt
+
+commit f79264d56f58759543369a05bbf6dc29ef779c58
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Wed Aug 24 17:05:15 2022 +0200
+
+    update
+
+commit ddd130fdf158a20cf4d76931c5633f15d9a05436
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Wed Aug 24 17:00:25 2022 +0200
+
+    update
+commit 9e689182e46978a241656de5af4df5cd9e05f873 (HEAD -> main, origin/main, origin/HEAD)
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 19:07:57 2022 +0200
+
+    updates
+
+commit ddd071dd76a54dcf1300a6e3037ae94564203196
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 18:32:20 2022 +0200
+
+    updates
+
+commit 88d4fa5d09c02674a0f2703bb713d82fe741598c
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 18:27:39 2022 +0200
+
+    Updates
+    
+    Created makefile and created hungryWord
+
+commit 932d985d3e9d128a72d9f323542a1ddf4bfe4edc
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Sun Aug 28 09:42:48 2022 +0200
+
+    update
+
+commit 24806dd8f8d4d418353577585b8fab20010b1398
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Fri Aug 26 22:44:43 2022 +0200
+
+    update
+
+commit 55c15fac6e3759b5fe70bb553a565af80be4b3e9
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Fri Aug 26 10:05:14 2022 +0200
+
+    updates
+
+commit 76d399d4ca4458703971c1d5e2cb8d8717cb20aa
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Thu Aug 25 22:07:34 2022 +0200
+
+    changes
+
+commit 722ace1481ff8c8ba4895a3cfbb84031a9a8e497
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Thu Aug 25 01:15:57 2022 +0200
+
+    duplicate attempt
+
+commit f79264d56f58759543369a05bbf6dc29ef779c58
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Wed Aug 24 17:05:15 2022 +0200
+
+    update
+
+commit ddd130fdf158a20cf4d76931c5633f15d9a05436
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Wed Aug 24 17:00:25 2022 +0200
+
+    update
+
+commit cf9a4f42fcbea76c5f44075d364ab0fc678142c9
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Wed Aug 24 16:33:29 2022 +0200
+
+    Initial
+
+commit e427a4711fe1e94e09b01328b603d4c282060ba0
+Author: Mbali2000 <107546127+Mbali2000@users.noreply.github.com>
+Date:   Wed Aug 24 13:29:44 2022 +0200
+
+    Initial commit
